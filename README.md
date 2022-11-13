@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sachit03
+- 👀 I’m interested in Coding 
+- 🌱 I’m currently learning data structures and web/android development
+- 💞️ I’m looking to collaborate on web development and adroid development projects.
+- 📫 How to reach me :-Gmail:rajimang@gmail.com
